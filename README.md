@@ -1,2 +1,2 @@
 # NexGrid-Wallet
-The source code of NexGrid utility
+The source code of wallet utility
